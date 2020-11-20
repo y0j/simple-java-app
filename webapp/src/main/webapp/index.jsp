@@ -1,1 +1,2 @@
-<h1>Simple Java application!</h1>
+<h1>Simple Java app</h1>
+<h1>Docker example</h1>
