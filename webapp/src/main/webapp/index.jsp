@@ -1,1 +1,1 @@
-<h1> Simple Java app</h1>
+<h1>Simple Java app</h1>
